@@ -1,6 +1,5 @@
-#/var/lib/awx/venv/aj/bin/python
 #!/usr/bin/env python
-#
+
 # Copyright (c) 2012, Marco Vito Moscaritolo <marco@agavee.com>
 # Copyright (c) 2013, Jesse Keating <jesse.keating@rackspace.com>
 # Copyright (c) 2015, Hewlett-Packard Development Company, L.P.
@@ -272,4 +271,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
